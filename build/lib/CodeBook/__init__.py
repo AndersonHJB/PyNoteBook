@@ -5,5 +5,5 @@
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
 # from CodeBook.variable import variable
-from CodeBook import variable
+from CodeBook.variable import variable
 

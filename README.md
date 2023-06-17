@@ -1,5 +1,5 @@
 # PynoteBook
 
 ```python
-pip install --upgrade PythonNoteBook
+pip install --upgrade PyCodeBook
 ```

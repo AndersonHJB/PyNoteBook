@@ -4,6 +4,6 @@
 # @FileName: main.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
-from NoteBook.variable import variable
+from CodeBook.variable import variable
 
 variable.show()

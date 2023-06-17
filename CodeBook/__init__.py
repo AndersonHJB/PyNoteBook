@@ -4,6 +4,6 @@
 # @FileName: __init__.py.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
-# from NoteBook.variable import variable
-from NoteBook import variable
+# from CodeBook.variable import variable
+from CodeBook.variable import variable
 
