@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PyNoteBook.iml" filepath="$PROJECT_DIR$/.idea/PyNoteBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonNoteBook/.idea/PythonNoteBook.iml" filepath="$PROJECT_DIR$/../PythonNoteBook/.idea/PythonNoteBook.iml" />
     </modules>
   </component>
 </project>
