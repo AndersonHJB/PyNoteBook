@@ -4,8 +4,7 @@
 # @FileName: variable.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
-template = """
-1. 什么是变量？——变量就是在计算机的内存当中，开辟空间；
+template = """1. 什么是变量？——变量就是在计算机的内存当中，开辟空间；
 """
 
 
