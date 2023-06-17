@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: PyCodeBook
+Version: 0.0.1
+Summary: 方便学员查询 Python 相关知识点,辅助考试。
+Home-page: https://github.com/AndersonHJB/PyNoteBook
+Author: Bornforthis
+Author-email: bornforthis@bornforthis.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# PynoteBook
+
+```python
+pip install --upgrade PythonNoteBook
+```

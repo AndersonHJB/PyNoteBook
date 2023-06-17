@@ -5,5 +5,5 @@
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
 # from NoteBook.variable import variable
-from NoteBook.variable import *
+from NoteBook import variable
 
