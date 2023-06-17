@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'PyNoteBook'
+NAME = 'PyNote'
 DESCRIPTION = '方便学员查询 Python 相关知识点,辅助考试。'
 URL = 'https://github.com/me/myproject'
 EMAIL = 'bornforthis@bornforthis.com'
