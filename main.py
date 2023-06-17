@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2023/6/18 01:44
+# @Time    : 2023/6/18 01:59
 # @Author  : AI悦创
-# @FileName: __init__.py.py
+# @FileName: main.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
 from NoteBook.variable import variable
 
+variable.show()

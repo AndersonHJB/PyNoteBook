@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+NoteBook/__init__.py
+NoteBook/__version__.py
+NoteBook/engine.py
+NoteBook/variable/__init__.py
+NoteBook/variable/variable.py
+PyNoteBook.egg-info/PKG-INFO
+PyNoteBook.egg-info/SOURCES.txt
+PyNoteBook.egg-info/dependency_links.txt
+PyNoteBook.egg-info/top_level.txt

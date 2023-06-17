@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2023/6/18 01:44
+# @Time    : 2023/6/18 01:46
 # @Author  : AI悦创
-# @FileName: __init__.py.py
+# @FileName: engine.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
-from NoteBook.variable import variable
-
