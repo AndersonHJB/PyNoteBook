@@ -4,6 +4,7 @@
 # @FileName: main.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
-from CodeBook.variable import variable
-
-variable.show()
+# from CodeBook.variable import variable
+from CodeBook.engine import search
+# variable.show()
+search("ni")

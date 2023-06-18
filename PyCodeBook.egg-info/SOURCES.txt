@@ -4,6 +4,7 @@ README.md
 setup.py
 CodeBook/__init__.py
 CodeBook/__version__.py
+CodeBook/engine.py
 CodeBook/variable/__init__.py
 CodeBook/variable/__version__.py
 CodeBook/variable/variable.py
