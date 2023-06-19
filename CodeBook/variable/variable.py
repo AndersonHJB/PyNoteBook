@@ -9,5 +9,9 @@ template = """1. 什么是变量？——变量就是在计算机的内存当中
 
 
 def show():
+    """
+    此函数，用于输出 Python 变量的定义与特点。
+
+    """
     print(template)
     return template
